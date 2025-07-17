@@ -1,0 +1,14 @@
+/Users/ahmetguvendik/Desktop/untitled folder/Project/Lists1/Lists1/bin/Debug/net9.0/Lists1
+/Users/ahmetguvendik/Desktop/untitled folder/Project/Lists1/Lists1/bin/Debug/net9.0/Lists1.deps.json
+/Users/ahmetguvendik/Desktop/untitled folder/Project/Lists1/Lists1/bin/Debug/net9.0/Lists1.runtimeconfig.json
+/Users/ahmetguvendik/Desktop/untitled folder/Project/Lists1/Lists1/bin/Debug/net9.0/Lists1.dll
+/Users/ahmetguvendik/Desktop/untitled folder/Project/Lists1/Lists1/bin/Debug/net9.0/Lists1.pdb
+/Users/ahmetguvendik/Desktop/untitled folder/Project/Lists1/Lists1/obj/Debug/net9.0/Lists1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ahmetguvendik/Desktop/untitled folder/Project/Lists1/Lists1/obj/Debug/net9.0/Lists1.AssemblyInfoInputs.cache
+/Users/ahmetguvendik/Desktop/untitled folder/Project/Lists1/Lists1/obj/Debug/net9.0/Lists1.AssemblyInfo.cs
+/Users/ahmetguvendik/Desktop/untitled folder/Project/Lists1/Lists1/obj/Debug/net9.0/Lists1.csproj.CoreCompileInputs.cache
+/Users/ahmetguvendik/Desktop/untitled folder/Project/Lists1/Lists1/obj/Debug/net9.0/Lists1.dll
+/Users/ahmetguvendik/Desktop/untitled folder/Project/Lists1/Lists1/obj/Debug/net9.0/refint/Lists1.dll
+/Users/ahmetguvendik/Desktop/untitled folder/Project/Lists1/Lists1/obj/Debug/net9.0/Lists1.pdb
+/Users/ahmetguvendik/Desktop/untitled folder/Project/Lists1/Lists1/obj/Debug/net9.0/Lists1.genruntimeconfig.cache
+/Users/ahmetguvendik/Desktop/untitled folder/Project/Lists1/Lists1/obj/Debug/net9.0/ref/Lists1.dll
